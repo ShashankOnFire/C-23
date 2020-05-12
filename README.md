@@ -1,2 +1,1 @@
-# C-23
-Class object
+# Box Class
